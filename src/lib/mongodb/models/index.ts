@@ -7,6 +7,8 @@ import './FAQ';
 import './QuoteRequest';
 import './SupportTicket';
 import './Notification';
+import './FertilizerCalculation';
+import './Field';
 
 // Re-export models for convenience
 export { User } from './User';
@@ -17,3 +19,5 @@ export { FAQ } from './FAQ';
 export { QuoteRequest } from './QuoteRequest';
 export { SupportTicket } from './SupportTicket';
 export { Notification } from './Notification';
+export { FertilizerCalculation } from './FertilizerCalculation';
+export { Field } from './Field';
