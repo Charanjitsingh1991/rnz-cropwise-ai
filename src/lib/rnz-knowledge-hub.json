@@ -1,0 +1,2204 @@
+{
+  "metadata": {
+    "title": "RNZ Product Knowledge Hub",
+    "version": "1.0",
+    "generated_at": "2025-08-11T08:15:25.914460Z"
+  },
+  "schema": {
+    "product": [
+      "category",
+      "product_name",
+      "form",
+      "npk_analysis",
+      "suitable_crops",
+      "growth_stage",
+      "suitable_soils",
+      "description",
+      "aliases",
+      "notes"
+    ],
+    "category_summary": [
+      "category",
+      "summary",
+      "typical_application",
+      "suitable_crops",
+      "suitable_soils",
+      "form"
+    ]
+  },
+  "categories": [
+    "Water Soluble NPK (100% Soluble Powders)",
+    "Granular NPK Grades",
+    "Liquid Items",
+    "Suspension Items",
+    "Sulphur Based",
+    "Straights Items",
+    "Micro Elements",
+    "Sulphates Products",
+    "Bio/Organic Items"
+  ],
+  "categories_detail": [
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "summary": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "typical_application": "Vegetative to flowering; fertigation/foliar",
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "form": "WSF Powder"
+    },
+    {
+      "category": "Granular NPK Grades",
+      "summary": "Uniform granules delivering balanced macronutrients for field crops and orchards.",
+      "typical_application": "Base/planting & vegetative topdress",
+      "suitable_crops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+      "suitable_soils": "Loam, Clay, Sandy, Chalky",
+      "form": "Granular"
+    },
+    {
+      "category": "Liquid Items",
+      "summary": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "typical_application": "Foliar/fertigation across stages; fast correction",
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "form": "Liquid"
+    },
+    {
+      "category": "Suspension Items",
+      "summary": "Stable suspensions supplying high-analysis NPK for key reproductive stages.",
+      "typical_application": "Vegetative to fruiting; fertigation/foliar",
+      "suitable_crops": "Cereals, cotton, rice, citrus, fruit trees",
+      "suitable_soils": "Loam, Clay, Chalky, Alkaline",
+      "form": "Suspension"
+    },
+    {
+      "category": "Sulphur Based",
+      "summary": "Elemental/compound sulphur products; some fortified with Zn or B to correct deficiencies and manage pH.",
+      "typical_application": "Pre-plant or early season; soil amendment or side-dress",
+      "suitable_crops": "Oilseeds, legumes, cereals; sulphur and zinc programs",
+      "suitable_soils": "Alkaline, Loam, Sandy, Clay",
+      "form": "Sulphur/Amendment"
+    },
+    {
+      "category": "Straights Items",
+      "summary": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "typical_application": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "form": "Straight"
+    },
+    {
+      "category": "Micro Elements",
+      "summary": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "typical_application": "As deficiency appears; foliar or fertigation",
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "form": "Micronutrient"
+    },
+    {
+      "category": "Sulphates Products",
+      "summary": "Sulphate salts of essential micros for reliable availability.",
+      "typical_application": "Deficiency correction; soil/foliar",
+      "suitable_crops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+      "suitable_soils": "Sandy, Acidic, Loam",
+      "form": "Micronutrient (Sulphate)"
+    },
+    {
+      "category": "Bio/Organic Items",
+      "summary": "Biostimulants and soil improvers to enhance structure and nutrient use efficiency.",
+      "typical_application": "Any stage; soil conditioning",
+      "suitable_crops": "All crops; organic & soil health programs",
+      "suitable_soils": "Loam, Sandy, Clay, Peat, Acidic",
+      "form": "Organic/Bio"
+    }
+  ],
+  "products": [
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 19-19-19",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 19,
+        "P2O5": 19,
+        "K2O": 19
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 13-40-13",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 13,
+        "P2O5": 40,
+        "K2O": 13
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 13-00-45",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 13,
+        "P2O5": 0,
+        "K2O": 45
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 06-12-36",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 6,
+        "P2O5": 12,
+        "K2O": 36
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 30-10-10",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 30,
+        "P2O5": 10,
+        "K2O": 10
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 17-03-26",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 17,
+        "P2O5": 3,
+        "K2O": 26
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 13-05-26",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 13,
+        "P2O5": 5,
+        "K2O": 26
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 00-52-34",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 0,
+        "P2O5": 52,
+        "K2O": 34
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 20-20-20",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 20,
+        "P2O5": 20,
+        "K2O": 20
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 28-14-14+TE",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 28,
+        "P2O5": 14,
+        "K2O": 14
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "NPK 12-12-36+TE",
+      "form": "WSF Powder",
+      "npk_analysis": {
+        "N": 12,
+        "P2O5": 12,
+        "K2O": 36
+      },
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Water Soluble NPK (100% Soluble Powders)",
+      "product_name": "+100 Customized Formula",
+      "form": "WSF Powder",
+      "npk_analysis": null,
+      "suitable_crops": "All crops; strong for vegetables, fruits, hydroponics",
+      "growth_stage": "Vegetative to flowering; fertigation/foliar",
+      "suitable_soils": "Loam, Sandy, Silt, Hydroponics",
+      "description": "High-purity fully soluble grades for quick uptake in fertigation and foliar programs.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Granular NPK Grades",
+      "product_name": "NPK 12-11-18",
+      "form": "Granular",
+      "npk_analysis": {
+        "N": 12,
+        "P2O5": 11,
+        "K2O": 18
+      },
+      "suitable_crops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+      "growth_stage": "Base/planting & vegetative topdress",
+      "suitable_soils": "Loam, Clay, Sandy, Chalky",
+      "description": "Uniform granules delivering balanced macronutrients for field crops and orchards.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Granular NPK Grades",
+      "product_name": "NPK 12-12-17+2MgO+TE",
+      "form": "Granular",
+      "npk_analysis": {
+        "N": 12,
+        "P2O5": 12,
+        "K2O": 17
+      },
+      "suitable_crops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+      "growth_stage": "Base/planting & vegetative topdress",
+      "suitable_soils": "Loam, Clay, Sandy, Chalky",
+      "description": "Uniform granules delivering balanced macronutrients for field crops and orchards.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Granular NPK Grades",
+      "product_name": "NPK 15-15-15",
+      "form": "Granular",
+      "npk_analysis": {
+        "N": 15,
+        "P2O5": 15,
+        "K2O": 15
+      },
+      "suitable_crops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+      "growth_stage": "Base/planting & vegetative topdress",
+      "suitable_soils": "Loam, Clay, Sandy, Chalky",
+      "description": "Uniform granules delivering balanced macronutrients for field crops and orchards.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Granular NPK Grades",
+      "product_name": "NPK 18-5-18",
+      "form": "Granular",
+      "npk_analysis": {
+        "N": 18,
+        "P2O5": 5,
+        "K2O": 18
+      },
+      "suitable_crops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+      "growth_stage": "Base/planting & vegetative topdress",
+      "suitable_soils": "Loam, Clay, Sandy, Chalky",
+      "description": "Uniform granules delivering balanced macronutrients for field crops and orchards.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Granular NPK Grades",
+      "product_name": "NPK 19-19-19",
+      "form": "Granular",
+      "npk_analysis": {
+        "N": 19,
+        "P2O5": 19,
+        "K2O": 19
+      },
+      "suitable_crops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+      "growth_stage": "Base/planting & vegetative topdress",
+      "suitable_soils": "Loam, Clay, Sandy, Chalky",
+      "description": "Uniform granules delivering balanced macronutrients for field crops and orchards.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Granular NPK Grades",
+      "product_name": "NPK 10-10-40+",
+      "form": "Granular",
+      "npk_analysis": {
+        "N": 10,
+        "P2O5": 10,
+        "K2O": 40
+      },
+      "suitable_crops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+      "growth_stage": "Base/planting & vegetative topdress",
+      "suitable_soils": "Loam, Clay, Sandy, Chalky",
+      "description": "Uniform granules delivering balanced macronutrients for field crops and orchards.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Granular NPK Grades",
+      "product_name": "+100 Customized Formula",
+      "form": "Granular",
+      "npk_analysis": null,
+      "suitable_crops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+      "growth_stage": "Base/planting & vegetative topdress",
+      "suitable_soils": "Loam, Clay, Sandy, Chalky",
+      "description": "Uniform granules delivering balanced macronutrients for field crops and orchards.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "NPK 02-07-14",
+      "form": "Liquid",
+      "npk_analysis": {
+        "N": 2,
+        "P2O5": 7,
+        "K2O": 14
+      },
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "Urea Liquid",
+      "form": "Liquid",
+      "npk_analysis": null,
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [
+        "Liquid Urea"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "NPK 10-08-10",
+      "form": "Liquid",
+      "npk_analysis": {
+        "N": 10,
+        "P2O5": 8,
+        "K2O": 10
+      },
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "NPK 10-10-10",
+      "form": "Liquid",
+      "npk_analysis": {
+        "N": 10,
+        "P2O5": 10,
+        "K2O": 10
+      },
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "Seaweed Liquid",
+      "form": "Liquid",
+      "npk_analysis": null,
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "Phosphoric Acid",
+      "form": "Liquid",
+      "npk_analysis": null,
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "Salt Corrector",
+      "form": "Liquid",
+      "npk_analysis": null,
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "Liquid NPK’s",
+      "form": "Liquid",
+      "npk_analysis": null,
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "Calcium Thiosulphate (CaTS)",
+      "form": "Liquid",
+      "npk_analysis": null,
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [
+        "CaTS"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "Ammonium Polyphosphate (APP)",
+      "form": "Liquid",
+      "npk_analysis": null,
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [
+        "APP",
+        "10-34-0 (contextual)"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "Potassium Thiosulphate (KTS)",
+      "form": "Liquid",
+      "npk_analysis": null,
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [
+        "KTS"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Liquid Items",
+      "product_name": "+100 Customized Formula",
+      "form": "Liquid",
+      "npk_analysis": null,
+      "suitable_crops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+      "growth_stage": "Foliar/fertigation across stages; fast correction",
+      "suitable_soils": "Hydroponics, Sandy, Loam, Peat",
+      "description": "Concentrated liquids ideal for rapid nutrient delivery and corrective feeding.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Suspension Items",
+      "product_name": "NPK 0-52-34",
+      "form": "Suspension",
+      "npk_analysis": {
+        "N": 0,
+        "P2O5": 52,
+        "K2O": 34
+      },
+      "suitable_crops": "Cereals, cotton, rice, citrus, fruit trees",
+      "growth_stage": "Vegetative to fruiting; fertigation/foliar",
+      "suitable_soils": "Loam, Clay, Chalky, Alkaline",
+      "description": "Stable suspensions supplying high-analysis NPK for key reproductive stages.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Suspension Items",
+      "product_name": "NPK 12-6-60",
+      "form": "Suspension",
+      "npk_analysis": {
+        "N": 12,
+        "P2O5": 6,
+        "K2O": 60
+      },
+      "suitable_crops": "Cereals, cotton, rice, citrus, fruit trees",
+      "growth_stage": "Vegetative to fruiting; fertigation/foliar",
+      "suitable_soils": "Loam, Clay, Chalky, Alkaline",
+      "description": "Stable suspensions supplying high-analysis NPK for key reproductive stages.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Suspension Items",
+      "product_name": "NPK 12-52-08",
+      "form": "Suspension",
+      "npk_analysis": {
+        "N": 12,
+        "P2O5": 52,
+        "K2O": 8
+      },
+      "suitable_crops": "Cereals, cotton, rice, citrus, fruit trees",
+      "growth_stage": "Vegetative to fruiting; fertigation/foliar",
+      "suitable_soils": "Loam, Clay, Chalky, Alkaline",
+      "description": "Stable suspensions supplying high-analysis NPK for key reproductive stages.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Suspension Items",
+      "product_name": "NPK 12-61-0",
+      "form": "Suspension",
+      "npk_analysis": {
+        "N": 12,
+        "P2O5": 61,
+        "K2O": 0
+      },
+      "suitable_crops": "Cereals, cotton, rice, citrus, fruit trees",
+      "growth_stage": "Vegetative to fruiting; fertigation/foliar",
+      "suitable_soils": "Loam, Clay, Chalky, Alkaline",
+      "description": "Stable suspensions supplying high-analysis NPK for key reproductive stages.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Suspension Items",
+      "product_name": "NPK 25-25-25",
+      "form": "Suspension",
+      "npk_analysis": {
+        "N": 25,
+        "P2O5": 25,
+        "K2O": 25
+      },
+      "suitable_crops": "Cereals, cotton, rice, citrus, fruit trees",
+      "growth_stage": "Vegetative to fruiting; fertigation/foliar",
+      "suitable_soils": "Loam, Clay, Chalky, Alkaline",
+      "description": "Stable suspensions supplying high-analysis NPK for key reproductive stages.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Suspension Items",
+      "product_name": "NPK 40-10-10",
+      "form": "Suspension",
+      "npk_analysis": {
+        "N": 40,
+        "P2O5": 10,
+        "K2O": 10
+      },
+      "suitable_crops": "Cereals, cotton, rice, citrus, fruit trees",
+      "growth_stage": "Vegetative to fruiting; fertigation/foliar",
+      "suitable_soils": "Loam, Clay, Chalky, Alkaline",
+      "description": "Stable suspensions supplying high-analysis NPK for key reproductive stages.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Suspension Items",
+      "product_name": "NPK 21-21-21",
+      "form": "Suspension",
+      "npk_analysis": {
+        "N": 21,
+        "P2O5": 21,
+        "K2O": 21
+      },
+      "suitable_crops": "Cereals, cotton, rice, citrus, fruit trees",
+      "growth_stage": "Vegetative to fruiting; fertigation/foliar",
+      "suitable_soils": "Loam, Clay, Chalky, Alkaline",
+      "description": "Stable suspensions supplying high-analysis NPK for key reproductive stages.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Suspension Items",
+      "product_name": "+10 Customized Formula",
+      "form": "Suspension",
+      "npk_analysis": null,
+      "suitable_crops": "Cereals, cotton, rice, citrus, fruit trees",
+      "growth_stage": "Vegetative to fruiting; fertigation/foliar",
+      "suitable_soils": "Loam, Clay, Chalky, Alkaline",
+      "description": "Stable suspensions supplying high-analysis NPK for key reproductive stages.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphur Based",
+      "product_name": "RNZ SB+ (SB 90%)",
+      "form": "Sulphur/Amendment",
+      "npk_analysis": null,
+      "suitable_crops": "Oilseeds, legumes, cereals; sulphur and zinc programs",
+      "growth_stage": "Pre-plant or early season; soil amendment or side-dress",
+      "suitable_soils": "Alkaline, Loam, Sandy, Clay",
+      "description": "Elemental/compound sulphur products; some fortified with Zn or B to correct deficiencies and manage pH.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphur Based",
+      "product_name": "RNZ ES 99.5%",
+      "form": "Sulphur/Amendment",
+      "npk_analysis": null,
+      "suitable_crops": "Oilseeds, legumes, cereals; sulphur and zinc programs",
+      "growth_stage": "Pre-plant or early season; soil amendment or side-dress",
+      "suitable_soils": "Alkaline, Loam, Sandy, Clay",
+      "description": "Elemental/compound sulphur products; some fortified with Zn or B to correct deficiencies and manage pH.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphur Based",
+      "product_name": "RNZ SB+Zn 8%",
+      "form": "Sulphur/Amendment",
+      "npk_analysis": null,
+      "suitable_crops": "Oilseeds, legumes, cereals; sulphur and zinc programs",
+      "growth_stage": "Pre-plant or early season; soil amendment or side-dress",
+      "suitable_soils": "Alkaline, Loam, Sandy, Clay",
+      "description": "Elemental/compound sulphur products; some fortified with Zn or B to correct deficiencies and manage pH.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphur Based",
+      "product_name": "RNZ SB+Zn18%",
+      "form": "Sulphur/Amendment",
+      "npk_analysis": null,
+      "suitable_crops": "Oilseeds, legumes, cereals; sulphur and zinc programs",
+      "growth_stage": "Pre-plant or early season; soil amendment or side-dress",
+      "suitable_soils": "Alkaline, Loam, Sandy, Clay",
+      "description": "Elemental/compound sulphur products; some fortified with Zn or B to correct deficiencies and manage pH.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphur Based",
+      "product_name": "RNZ SB+B1.20%",
+      "form": "Sulphur/Amendment",
+      "npk_analysis": null,
+      "suitable_crops": "Oilseeds, legumes, cereals; sulphur and zinc programs",
+      "growth_stage": "Pre-plant or early season; soil amendment or side-dress",
+      "suitable_soils": "Alkaline, Loam, Sandy, Clay",
+      "description": "Elemental/compound sulphur products; some fortified with Zn or B to correct deficiencies and manage pH.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphur Based",
+      "product_name": "RNZ NS 10+ (10-0-0-7.5S)",
+      "form": "Sulphur/Amendment",
+      "npk_analysis": {
+        "N": 10,
+        "P2O5": 0,
+        "K2O": 0
+      },
+      "suitable_crops": "Oilseeds, legumes, cereals; sulphur and zinc programs",
+      "growth_stage": "Pre-plant or early season; soil amendment or side-dress",
+      "suitable_soils": "Alkaline, Loam, Sandy, Clay",
+      "description": "Elemental/compound sulphur products; some fortified with Zn or B to correct deficiencies and manage pH.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphur Based",
+      "product_name": "RNZ NS 20+ (20-0-0-50S)",
+      "form": "Sulphur/Amendment",
+      "npk_analysis": {
+        "N": 20,
+        "P2O5": 0,
+        "K2O": 0
+      },
+      "suitable_crops": "Oilseeds, legumes, cereals; sulphur and zinc programs",
+      "growth_stage": "Pre-plant or early season; soil amendment or side-dress",
+      "suitable_soils": "Alkaline, Loam, Sandy, Clay",
+      "description": "Elemental/compound sulphur products; some fortified with Zn or B to correct deficiencies and manage pH.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "Prilled / Granular Urea",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "Mono Ammonium Phosphate",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [
+        "MAP",
+        "11-52-0 (contextual)"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "Mono Potassium Phosphate",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [
+        "MKP",
+        "0-52-34 (contextual)"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "Potassium Nitrate (Powder & Prilled)",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [
+        "NOP",
+        "KNO3"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "Calcium Nitrate with Boron",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "Calcium Nitrate – Soluble",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "Potassium Magnesium Sulphate",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "Potassium Sulphate (Standard, Soluble, Granular)",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [
+        "SOP",
+        "K2SO4"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "Triple Superphosphate",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Straights Items",
+      "product_name": "TSP, DAP, MAP – Granular",
+      "form": "Straight",
+      "npk_analysis": null,
+      "suitable_crops": "All crops (depending on nutrient need)",
+      "growth_stage": "As per nutrient plan (base/topdress/foliar)",
+      "suitable_soils": "Varies; common: Loam, Clay, Sandy",
+      "description": "Single nutrient or binary sources (e.g., Urea, MAP, MOP, CN, SOP).",
+      "aliases": [
+        "TSP",
+        "DAP",
+        "MAP"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "Fe EDDHA 6%",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "Fe EDTA 12%",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "Fe EDTA 15%",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "Cu EDTA 15%",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "Mn EDTA 13%",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "Zn EDTA 15%",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "MgNa EDTA 6%",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "Di-Sodium Octa Borate Tetrahydrate",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "DOT (Boron - 21%)",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "Boric Acid",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Micro Elements",
+      "product_name": "Combi Mix",
+      "form": "Micronutrient",
+      "npk_analysis": null,
+      "suitable_crops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+      "growth_stage": "As deficiency appears; foliar or fertigation",
+      "suitable_soils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+      "description": "Chelated and mineral micros to prevent and correct trace element deficiencies.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphates Products",
+      "product_name": "Zinc Sulphate – Hepta & Mono",
+      "form": "Micronutrient (Sulphate)",
+      "npk_analysis": null,
+      "suitable_crops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+      "growth_stage": "Deficiency correction; soil/foliar",
+      "suitable_soils": "Sandy, Acidic, Loam",
+      "description": "Sulphate salts of essential micros for reliable availability.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphates Products",
+      "product_name": "Magnesium Sulphate – Hepta, Mono & Anhydrous",
+      "form": "Micronutrient (Sulphate)",
+      "npk_analysis": null,
+      "suitable_crops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+      "growth_stage": "Deficiency correction; soil/foliar",
+      "suitable_soils": "Sandy, Acidic, Loam",
+      "description": "Sulphate salts of essential micros for reliable availability.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphates Products",
+      "product_name": "Manganese Sulphate",
+      "form": "Micronutrient (Sulphate)",
+      "npk_analysis": null,
+      "suitable_crops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+      "growth_stage": "Deficiency correction; soil/foliar",
+      "suitable_soils": "Sandy, Acidic, Loam",
+      "description": "Sulphate salts of essential micros for reliable availability.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphates Products",
+      "product_name": "Ferrous Sulphate – Hepta & Mono",
+      "form": "Micronutrient (Sulphate)",
+      "npk_analysis": null,
+      "suitable_crops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+      "growth_stage": "Deficiency correction; soil/foliar",
+      "suitable_soils": "Sandy, Acidic, Loam",
+      "description": "Sulphate salts of essential micros for reliable availability.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Sulphates Products",
+      "product_name": "Copper Sulphate – Pentahydrate",
+      "form": "Micronutrient (Sulphate)",
+      "npk_analysis": null,
+      "suitable_crops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+      "growth_stage": "Deficiency correction; soil/foliar",
+      "suitable_soils": "Sandy, Acidic, Loam",
+      "description": "Sulphate salts of essential micros for reliable availability.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Bio/Organic Items",
+      "product_name": "Granular Gypsum",
+      "form": "Organic/Bio",
+      "npk_analysis": null,
+      "suitable_crops": "All crops; organic & soil health programs",
+      "growth_stage": "Any stage; soil conditioning",
+      "suitable_soils": "Loam, Sandy, Clay, Peat, Acidic",
+      "description": "Biostimulants and soil improvers to enhance structure and nutrient use efficiency.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Bio/Organic Items",
+      "product_name": "Guano Phosphate",
+      "form": "Organic/Bio",
+      "npk_analysis": null,
+      "suitable_crops": "All crops; organic & soil health programs",
+      "growth_stage": "Any stage; soil conditioning",
+      "suitable_soils": "Loam, Sandy, Clay, Peat, Acidic",
+      "description": "Biostimulants and soil improvers to enhance structure and nutrient use efficiency.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Bio/Organic Items",
+      "product_name": "Humic / Fulvic Acid",
+      "form": "Organic/Bio",
+      "npk_analysis": null,
+      "suitable_crops": "All crops; organic & soil health programs",
+      "growth_stage": "Any stage; soil conditioning",
+      "suitable_soils": "Loam, Sandy, Clay, Peat, Acidic",
+      "description": "Biostimulants and soil improvers to enhance structure and nutrient use efficiency.",
+      "aliases": [
+        "Humic Acid",
+        "Fulvic Acid"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Bio/Organic Items",
+      "product_name": "Seaweed Range",
+      "form": "Organic/Bio",
+      "npk_analysis": null,
+      "suitable_crops": "All crops; organic & soil health programs",
+      "growth_stage": "Any stage; soil conditioning",
+      "suitable_soils": "Loam, Sandy, Clay, Peat, Acidic",
+      "description": "Biostimulants and soil improvers to enhance structure and nutrient use efficiency.",
+      "aliases": [
+        "Seaweed Extracts",
+        "Kelp"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "Bio/Organic Items",
+      "product_name": "Soil Conditioners",
+      "form": "Organic/Bio",
+      "npk_analysis": null,
+      "suitable_crops": "All crops; organic & soil health programs",
+      "growth_stage": "Any stage; soil conditioning",
+      "suitable_soils": "Loam, Sandy, Clay, Peat, Acidic",
+      "description": "Biostimulants and soil improvers to enhance structure and nutrient use efficiency.",
+      "aliases": [],
+      "notes": ""
+    },
+    {
+      "category": "Bio/Organic Items",
+      "product_name": "Amino Acids",
+      "form": "Organic/Bio",
+      "npk_analysis": null,
+      "suitable_crops": "All crops; organic & soil health programs",
+      "growth_stage": "Any stage; soil conditioning",
+      "suitable_soils": "Loam, Sandy, Clay, Peat, Acidic",
+      "description": "Biostimulants and soil improvers to enhance structure and nutrient use efficiency.",
+      "aliases": [],
+      "notes": ""
+    }
+  ],
+  "mappings": {
+    "product_to_crops": {
+      "NPK 19-19-19": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "legumes",
+        "potatoes"
+      ],
+      "NPK 13-40-13": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "NPK 13-00-45": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "NPK 06-12-36": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "NPK 30-10-10": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "NPK 17-03-26": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "NPK 13-05-26": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "NPK 00-52-34": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "NPK 20-20-20": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "NPK 28-14-14+TE": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "NPK 12-12-36+TE": [
+        "All crops",
+        "fruits",
+        "hydroponics",
+        "strong for vegetables"
+      ],
+      "+100 Customized Formula": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "NPK 12-11-18": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "legumes",
+        "potatoes"
+      ],
+      "NPK 12-12-17+2MgO+TE": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "legumes",
+        "potatoes"
+      ],
+      "NPK 15-15-15": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "legumes",
+        "potatoes"
+      ],
+      "NPK 18-5-18": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "legumes",
+        "potatoes"
+      ],
+      "NPK 10-10-40+": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "legumes",
+        "potatoes"
+      ],
+      "NPK 02-07-14": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "Urea Liquid": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "NPK 10-08-10": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "NPK 10-10-10": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "Seaweed Liquid": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "Phosphoric Acid": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "Salt Corrector": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "Liquid NPK’s": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "Calcium Thiosulphate (CaTS)": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "Ammonium Polyphosphate (APP)": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "Potassium Thiosulphate (KTS)": [
+        "Leafy greens",
+        "fruits",
+        "hydroponics",
+        "ornamentals",
+        "vegetables"
+      ],
+      "NPK 0-52-34": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "rice"
+      ],
+      "NPK 12-6-60": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "rice"
+      ],
+      "NPK 12-52-08": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "rice"
+      ],
+      "NPK 12-61-0": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "rice"
+      ],
+      "NPK 25-25-25": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "rice"
+      ],
+      "NPK 40-10-10": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "rice"
+      ],
+      "NPK 21-21-21": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "rice"
+      ],
+      "+10 Customized Formula": [
+        "Cereals",
+        "citrus",
+        "cotton",
+        "fruit trees",
+        "rice"
+      ],
+      "RNZ SB+ (SB 90%)": [
+        "Oilseeds",
+        "cereals",
+        "legumes",
+        "sulphur and zinc programs"
+      ],
+      "RNZ ES 99.5%": [
+        "Oilseeds",
+        "cereals",
+        "legumes",
+        "sulphur and zinc programs"
+      ],
+      "RNZ SB+Zn 8%": [
+        "Oilseeds",
+        "cereals",
+        "legumes",
+        "sulphur and zinc programs"
+      ],
+      "RNZ SB+Zn18%": [
+        "Oilseeds",
+        "cereals",
+        "legumes",
+        "sulphur and zinc programs"
+      ],
+      "RNZ SB+B1.20%": [
+        "Oilseeds",
+        "cereals",
+        "legumes",
+        "sulphur and zinc programs"
+      ],
+      "RNZ NS 10+ (10-0-0-7.5S)": [
+        "Oilseeds",
+        "cereals",
+        "legumes",
+        "sulphur and zinc programs"
+      ],
+      "RNZ NS 20+ (20-0-0-50S)": [
+        "Oilseeds",
+        "cereals",
+        "legumes",
+        "sulphur and zinc programs"
+      ],
+      "Prilled / Granular Urea": [
+        "All crops (depending on nutrient need)"
+      ],
+      "Mono Ammonium Phosphate": [
+        "All crops (depending on nutrient need)"
+      ],
+      "Mono Potassium Phosphate": [
+        "All crops (depending on nutrient need)"
+      ],
+      "Potassium Nitrate (Powder & Prilled)": [
+        "All crops (depending on nutrient need)"
+      ],
+      "Calcium Nitrate with Boron": [
+        "All crops (depending on nutrient need)"
+      ],
+      "Calcium Nitrate – Soluble": [
+        "All crops (depending on nutrient need)"
+      ],
+      "Potassium Magnesium Sulphate": [
+        "All crops (depending on nutrient need)"
+      ],
+      "Potassium Sulphate (Standard, Soluble, Granular)": [
+        "All crops (depending on nutrient need)"
+      ],
+      "Triple Superphosphate": [
+        "All crops (depending on nutrient need)"
+      ],
+      "TSP, DAP, MAP – Granular": [
+        "All crops (depending on nutrient need)"
+      ],
+      "Fe EDDHA 6%": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "Fe EDTA 12%": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "Fe EDTA 15%": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "Cu EDTA 15%": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "Mn EDTA 13%": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "Zn EDTA 15%": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "MgNa EDTA 6%": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "Di-Sodium Octa Borate Tetrahydrate": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "DOT (Boron - 21%)": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "Boric Acid": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "Combi Mix": [
+        "Fruit trees",
+        "citrus",
+        "deficiency correction",
+        "grapes",
+        "greens"
+      ],
+      "Zinc Sulphate – Hepta & Mono": [
+        "Cereals",
+        "Mg/Zn/Mn/Fe/Cu correction",
+        "oilseeds",
+        "vegetables"
+      ],
+      "Magnesium Sulphate – Hepta, Mono & Anhydrous": [
+        "Cereals",
+        "Mg/Zn/Mn/Fe/Cu correction",
+        "oilseeds",
+        "vegetables"
+      ],
+      "Manganese Sulphate": [
+        "Cereals",
+        "Mg/Zn/Mn/Fe/Cu correction",
+        "oilseeds",
+        "vegetables"
+      ],
+      "Ferrous Sulphate – Hepta & Mono": [
+        "Cereals",
+        "Mg/Zn/Mn/Fe/Cu correction",
+        "oilseeds",
+        "vegetables"
+      ],
+      "Copper Sulphate – Pentahydrate": [
+        "Cereals",
+        "Mg/Zn/Mn/Fe/Cu correction",
+        "oilseeds",
+        "vegetables"
+      ],
+      "Granular Gypsum": [
+        "All crops",
+        "organic & soil health programs"
+      ],
+      "Guano Phosphate": [
+        "All crops",
+        "organic & soil health programs"
+      ],
+      "Humic / Fulvic Acid": [
+        "All crops",
+        "organic & soil health programs"
+      ],
+      "Seaweed Range": [
+        "All crops",
+        "organic & soil health programs"
+      ],
+      "Soil Conditioners": [
+        "All crops",
+        "organic & soil health programs"
+      ],
+      "Amino Acids": [
+        "All crops",
+        "organic & soil health programs"
+      ]
+    },
+    "product_to_soils": {
+      "NPK 19-19-19": [
+        "Chalky",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "NPK 13-40-13": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "NPK 13-00-45": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "NPK 06-12-36": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "NPK 30-10-10": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "NPK 17-03-26": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "NPK 13-05-26": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "NPK 00-52-34": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "NPK 20-20-20": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "NPK 28-14-14+TE": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "NPK 12-12-36+TE": [
+        "Hydroponics",
+        "Loam",
+        "Sandy",
+        "Silt"
+      ],
+      "+100 Customized Formula": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "NPK 12-11-18": [
+        "Chalky",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "NPK 12-12-17+2MgO+TE": [
+        "Chalky",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "NPK 15-15-15": [
+        "Chalky",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "NPK 18-5-18": [
+        "Chalky",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "NPK 10-10-40+": [
+        "Chalky",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "NPK 02-07-14": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Urea Liquid": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "NPK 10-08-10": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "NPK 10-10-10": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Seaweed Liquid": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Phosphoric Acid": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Salt Corrector": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Liquid NPK’s": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Calcium Thiosulphate (CaTS)": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Ammonium Polyphosphate (APP)": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Potassium Thiosulphate (KTS)": [
+        "Hydroponics",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "NPK 0-52-34": [
+        "Alkaline",
+        "Chalky",
+        "Clay",
+        "Loam"
+      ],
+      "NPK 12-6-60": [
+        "Alkaline",
+        "Chalky",
+        "Clay",
+        "Loam"
+      ],
+      "NPK 12-52-08": [
+        "Alkaline",
+        "Chalky",
+        "Clay",
+        "Loam"
+      ],
+      "NPK 12-61-0": [
+        "Alkaline",
+        "Chalky",
+        "Clay",
+        "Loam"
+      ],
+      "NPK 25-25-25": [
+        "Alkaline",
+        "Chalky",
+        "Clay",
+        "Loam"
+      ],
+      "NPK 40-10-10": [
+        "Alkaline",
+        "Chalky",
+        "Clay",
+        "Loam"
+      ],
+      "NPK 21-21-21": [
+        "Alkaline",
+        "Chalky",
+        "Clay",
+        "Loam"
+      ],
+      "+10 Customized Formula": [
+        "Alkaline",
+        "Chalky",
+        "Clay",
+        "Loam"
+      ],
+      "RNZ SB+ (SB 90%)": [
+        "Alkaline",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "RNZ ES 99.5%": [
+        "Alkaline",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "RNZ SB+Zn 8%": [
+        "Alkaline",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "RNZ SB+Zn18%": [
+        "Alkaline",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "RNZ SB+B1.20%": [
+        "Alkaline",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "RNZ NS 10+ (10-0-0-7.5S)": [
+        "Alkaline",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "RNZ NS 20+ (20-0-0-50S)": [
+        "Alkaline",
+        "Clay",
+        "Loam",
+        "Sandy"
+      ],
+      "Prilled / Granular Urea": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "Mono Ammonium Phosphate": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "Mono Potassium Phosphate": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "Potassium Nitrate (Powder & Prilled)": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "Calcium Nitrate with Boron": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "Calcium Nitrate – Soluble": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "Potassium Magnesium Sulphate": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "Potassium Sulphate (Standard, Soluble, Granular)": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "Triple Superphosphate": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "TSP, DAP, MAP – Granular": [
+        "Clay",
+        "Sandy",
+        "Varies",
+        "common: Loam"
+      ],
+      "Fe EDDHA 6%": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Fe EDTA 12%": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Fe EDTA 15%": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Cu EDTA 15%": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Mn EDTA 13%": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Zn EDTA 15%": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "MgNa EDTA 6%": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Di-Sodium Octa Borate Tetrahydrate": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "DOT (Boron - 21%)": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Boric Acid": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Combi Mix": [
+        "Alkaline/Acidic (per element)",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Zinc Sulphate – Hepta & Mono": [
+        "Acidic",
+        "Loam",
+        "Sandy"
+      ],
+      "Magnesium Sulphate – Hepta, Mono & Anhydrous": [
+        "Acidic",
+        "Loam",
+        "Sandy"
+      ],
+      "Manganese Sulphate": [
+        "Acidic",
+        "Loam",
+        "Sandy"
+      ],
+      "Ferrous Sulphate – Hepta & Mono": [
+        "Acidic",
+        "Loam",
+        "Sandy"
+      ],
+      "Copper Sulphate – Pentahydrate": [
+        "Acidic",
+        "Loam",
+        "Sandy"
+      ],
+      "Granular Gypsum": [
+        "Acidic",
+        "Clay",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Guano Phosphate": [
+        "Acidic",
+        "Clay",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Humic / Fulvic Acid": [
+        "Acidic",
+        "Clay",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Seaweed Range": [
+        "Acidic",
+        "Clay",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Soil Conditioners": [
+        "Acidic",
+        "Clay",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ],
+      "Amino Acids": [
+        "Acidic",
+        "Clay",
+        "Loam",
+        "Peat",
+        "Sandy"
+      ]
+    }
+  },
+  "qa_examples": [
+    {
+      "q": "Which RNZ product is suitable for tomatoes during flowering?",
+      "a": "High-potassium grades help at flowering and fruiting. Consider Water Soluble NPK 06-12-36 or Suspension NPK 0-52-34. Apply via fertigation or foliar under adequate moisture.",
+      "grounding": [
+        "NPK 06-12-36",
+        "NPK 0-52-34"
+      ]
+    },
+    {
+      "q": "What works best on alkaline soil for fruit trees?",
+      "a": "Use products compatible with alkaline conditions: Suspension Items (e.g., NPK 0-52-34), Sulphur Based items for sulphur and micronutrient correction (e.g., RNZ SB+Zn 8%), and chelated micros like Fe EDDHA 6%.",
+      "grounding": [
+        "NPK 0-52-34",
+        "RNZ SB+Zn 8%",
+        "Fe EDDHA 6%"
+      ]
+    },
+    {
+      "q": "Do you have a liquid option for quick nitrogen?",
+      "a": "Yes. Liquid Items include Urea Liquid for fast nitrogen delivery via fertigation or foliar. Ensure proper dilution and application timing in vegetative stages.",
+      "grounding": [
+        "Urea Liquid"
+      ]
+    },
+    {
+      "q": "List products suitable for hydroponics.",
+      "a": "Water Soluble NPK grades (e.g., NPK 19-19-19, NPK 20-20-20) and certain Liquid Items (e.g., Seaweed Liquid, Liquid NPK’s) are commonly used in hydroponics due to full solubility.",
+      "grounding": [
+        "NPK 19-19-19",
+        "NPK 20-20-20",
+        "Seaweed Liquid",
+        "Liquid NPK’s"
+      ]
+    },
+    {
+      "q": "What’s the difference between Liquid and Suspension items?",
+      "a": "Liquid Items are true solutions for rapid correction across stages; Suspension Items are stable slurries delivering higher analysis NPK, often targeted to flowering/fruiting phases.",
+      "grounding": [
+        "Liquid Items",
+        "Suspension Items"
+      ]
+    }
+  ],
+  "policies": {
+    "answer_scope": "Only answer using this RNZ knowledge base. If a question is outside scope, say you don't have that information.",
+    "citation_hint": "When possible, reference the product name(s) used to form the answer.",
+    "fallbacks": [
+      "If a product name is not found, suggest browsing the RNZ catalog categories.",
+      "If the user asks for dosage/application rates not present, respond that specific rates depend on crop and local conditions and are not provided here."
+    ],
+    "style": "Concise, agronomy-aware, avoid safety/regulatory advice not included here."
+  },
+  "synonyms": {
+    "Calcium Thiosulphate (CaTS)": [
+      "CaTS"
+    ],
+    "Ammonium Polyphosphate (APP)": [
+      "APP",
+      "10-34-0 (contextual)"
+    ],
+    "Potassium Thiosulphate (KTS)": [
+      "KTS"
+    ],
+    "Potassium Nitrate (Powder & Prilled)": [
+      "NOP",
+      "KNO3"
+    ],
+    "Potassium Sulphate (Standard, Soluble, Granular)": [
+      "SOP",
+      "K2SO4"
+    ],
+    "Mono Ammonium Phosphate": [
+      "MAP",
+      "11-52-0 (contextual)"
+    ],
+    "Mono Potassium Phosphate": [
+      "MKP",
+      "0-52-34 (contextual)"
+    ],
+    "Urea Liquid": [
+      "Liquid Urea"
+    ],
+    "Seaweed Range": [
+      "Seaweed Extracts",
+      "Kelp"
+    ],
+    "Humic / Fulvic Acid": [
+      "Humic Acid",
+      "Fulvic Acid"
+    ],
+    "TSP, DAP, MAP – Granular": [
+      "TSP",
+      "DAP",
+      "MAP"
+    ]
+  }
+}

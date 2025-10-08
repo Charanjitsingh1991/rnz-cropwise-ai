@@ -1,0 +1,89 @@
+import { NextRequest, NextResponse } from 'next/server';
+import { MongoClient } from 'mongodb';
+
+export async function POST(request: NextRequest) {
+  try {
+    const authHeader = request.headers.get('authorization');
+    if (!authHeader || !authHeader.startsWith('Bearer ')) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    }
+
+    const token = authHeader.substring(7); // Remove 'Bearer ' prefix
+    const { productName, quantity, additionalNotes } = await request.json();
+    
+    const client = new MongoClient(process.env.MONGODB_URI!);
+    await client.connect();
+    const db = client.db();
+
+    // Find user by token (which is the user ID)
+    const user = await db.collection('users').findOne({ uid: token });
+    if (!user) {
+      await client.close();
+      return NextResponse.json({ error: 'User not found' }, { status: 404 });
+    }
+
+    const quoteRequest = {
+      userId: user.email,
+      userName: user.displayName || user.fullName || 'User',
+      productName,
+      quantity,
+      additionalNotes: additionalNotes || '',
+      status: 'Pending',
+      createdAt: new Date(),
+      updatedAt: new Date()
+    };
+
+    const result = await db.collection('quoteRequests').insertOne(quoteRequest);
+    
+    await client.close();
+
+    return NextResponse.json({ 
+      success: true,
+      message: 'Quote request submitted successfully',
+      requestId: result.insertedId
+    });
+
+  } catch (error) {
+    console.error('Quote request error:', error);
+    return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
+  }
+}
+
+export async function GET(request: NextRequest) {
+  try {
+    const authHeader = request.headers.get('authorization');
+    if (!authHeader || !authHeader.startsWith('Bearer ')) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    }
+
+    const token = authHeader.substring(7); // Remove 'Bearer ' prefix
+    
+    const client = new MongoClient(process.env.MONGODB_URI!);
+    await client.connect();
+    const db = client.db();
+
+    // Find user by token (which is the user ID)
+    const user = await db.collection('users').findOne({ uid: token });
+    if (!user) {
+      await client.close();
+      return NextResponse.json({ error: 'User not found' }, { status: 404 });
+    }
+
+    const quoteRequests = await db.collection('quoteRequests')
+      .find({ userId: user.email })
+      .sort({ createdAt: -1 })
+      .toArray();
+    
+    await client.close();
+
+    return NextResponse.json({ 
+      success: true,
+      quoteRequests
+    });
+
+  } catch (error) {
+    console.error('Get quote requests error:', error);
+    return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
+  }
+}
+

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RNZ CropWise</string>
+    <string name="title_activity_main">RNZ CropWise</string>
+    <string name="package_name">com.rnz.cropwise</string>
+    <string name="custom_url_scheme">com.rnz.cropwise</string>
+</resources>

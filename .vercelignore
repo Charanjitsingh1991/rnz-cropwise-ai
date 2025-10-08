@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+
+# Android/Flutter (exclude completely)
+android/
+rnz_cropwise_flutter/
+
+# Large data files that aren't needed for web app
+worldCountries.ts
+RNZ_*.json
+*.xlsx
+
+# Logs and temp files
+*.log
+*.tsbuildinfo
+.env.local
+.env
+
+# Archives
+*.apk
+*.aab
+*.zip
+*.tar.gz
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

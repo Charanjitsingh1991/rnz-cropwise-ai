@@ -1,0 +1,100 @@
+{
+  "totalCountries": 250,
+  "generatedAt": "2025-08-21T07:26:20.495Z",
+  "sampleCountries": [
+    {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    {
+      "code": "AX",
+      "name": "Åland Islands"
+    },
+    {
+      "code": "AL",
+      "name": "Albania"
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria"
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa"
+    },
+    {
+      "code": "AD",
+      "name": "Andorra"
+    },
+    {
+      "code": "AO",
+      "name": "Angola"
+    },
+    {
+      "code": "AI",
+      "name": "Anguilla"
+    },
+    {
+      "code": "AQ",
+      "name": "Antarctica"
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda"
+    }
+  ],
+  "currencies": [
+    "AFN",
+    "EUR",
+    "ALL",
+    "DZD",
+    "USD",
+    "AOA",
+    "XCD",
+    "ARS",
+    "AMD",
+    "AWG",
+    "AUD",
+    "AZN",
+    "BSD",
+    "BHD",
+    "BDT",
+    "BBD",
+    "BYN",
+    "BZD",
+    "XOF",
+    "BMD"
+  ],
+  "regions": [
+    "Africa",
+    "Americas",
+    "Antarctic",
+    "Asia",
+    "Australia and New Zealand",
+    "Caribbean",
+    "Central America",
+    "Central Asia",
+    "Central Europe",
+    "Eastern Africa",
+    "Eastern Asia",
+    "Eastern Europe",
+    "Europe",
+    "Melanesia",
+    "Micronesia",
+    "Middle Africa",
+    "North America",
+    "Northern Africa",
+    "Northern Europe",
+    "Oceania",
+    "Polynesia",
+    "South America",
+    "South-Eastern Asia",
+    "Southeast Europe",
+    "Southern Africa",
+    "Southern Asia",
+    "Southern Europe",
+    "Western Africa",
+    "Western Asia",
+    "Western Europe"
+  ]
+}

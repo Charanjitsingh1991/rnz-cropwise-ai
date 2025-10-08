@@ -1,0 +1,5205 @@
+[
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 19-19-19",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 19,
+        "phosphorus": 19,
+        "potassium": 19
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 13-40-13",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 13,
+        "phosphorus": 40,
+        "potassium": 13
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 13-00-45",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 13,
+        "phosphorus": 0,
+        "potassium": 45
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 06-12-36",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 6,
+        "phosphorus": 12,
+        "potassium": 36
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 30-10-10",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 30,
+        "phosphorus": 10,
+        "potassium": 10
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 17-03-26",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 17,
+        "phosphorus": 3,
+        "potassium": 26
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 13-05-26",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 13,
+        "phosphorus": 5,
+        "potassium": 26
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 00-52-34",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 0,
+        "phosphorus": 52,
+        "potassium": 34
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 20-20-20",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 20,
+        "phosphorus": 20,
+        "potassium": 20
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 28-14-14+TE",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": true,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 28,
+        "phosphorus": 14,
+        "potassium": 14
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "NPK 12-12-36+TE",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 12,
+        "phosphorus": 12,
+        "potassium": 36
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Water Soluble NPK (100% Soluble Powders)",
+    "name": "+100 Customized Formula",
+    "form": "WSF Powder",
+    "suitableCrops": "All crops; strong for vegetables, fruits, hydroponics",
+    "growthStage": "Vegetative to flowering; fertigation/foliar",
+    "suitableSoils": "Loam, Sandy, Silt, Hydroponics",
+    "description": "High-purity fully soluble grades for quick uptake.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops",
+      "fruits",
+      "hydroponics",
+      "loam",
+      "sandy",
+      "silt",
+      "strong-for-vegetables",
+      "water-soluble-npk-100-soluble-powders",
+      "wsf-powder"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to flowering; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 850,
+      "wholesale": 765.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Granular NPK Grades",
+    "name": "NPK 12-11-18",
+    "form": "Granular",
+    "suitableCrops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+    "growthStage": "Base/planting & vegetative topdress",
+    "suitableSoils": "Loam, Clay, Sandy, Chalky",
+    "description": "Uniform granules; balanced macronutrients.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "granular",
+      "granular-npk-grades",
+      "legumes",
+      "loam",
+      "potatoes",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 12,
+        "phosphorus": 11,
+        "potassium": 18
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Base/planting & vegetative topdress"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Granular NPK Grades",
+    "name": "NPK 12-12-17+2MgO+TE",
+    "form": "Granular",
+    "suitableCrops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+    "growthStage": "Base/planting & vegetative topdress",
+    "suitableSoils": "Loam, Clay, Sandy, Chalky",
+    "description": "Uniform granules; balanced macronutrients.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "granular",
+      "granular-npk-grades",
+      "legumes",
+      "loam",
+      "potatoes",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 12,
+        "phosphorus": 12,
+        "potassium": 17
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Base/planting & vegetative topdress"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Granular NPK Grades",
+    "name": "NPK 15-15-15",
+    "form": "Granular",
+    "suitableCrops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+    "growthStage": "Base/planting & vegetative topdress",
+    "suitableSoils": "Loam, Clay, Sandy, Chalky",
+    "description": "Uniform granules; balanced macronutrients.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "granular",
+      "granular-npk-grades",
+      "legumes",
+      "loam",
+      "potatoes",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 15,
+        "phosphorus": 15,
+        "potassium": 15
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Base/planting & vegetative topdress"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Granular NPK Grades",
+    "name": "NPK 18-5-18",
+    "form": "Granular",
+    "suitableCrops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+    "growthStage": "Base/planting & vegetative topdress",
+    "suitableSoils": "Loam, Clay, Sandy, Chalky",
+    "description": "Uniform granules; balanced macronutrients.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "granular",
+      "granular-npk-grades",
+      "legumes",
+      "loam",
+      "potatoes",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 18,
+        "phosphorus": 5,
+        "potassium": 18
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Base/planting & vegetative topdress"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Granular NPK Grades",
+    "name": "NPK 19-19-19",
+    "form": "Granular",
+    "suitableCrops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+    "growthStage": "Base/planting & vegetative topdress",
+    "suitableSoils": "Loam, Clay, Sandy, Chalky",
+    "description": "Uniform granules; balanced macronutrients.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "granular",
+      "granular-npk-grades",
+      "legumes",
+      "loam",
+      "potatoes",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 19,
+        "phosphorus": 19,
+        "potassium": 19
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Base/planting & vegetative topdress"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Granular NPK Grades",
+    "name": "NPK 10-10-40+",
+    "form": "Granular",
+    "suitableCrops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+    "growthStage": "Base/planting & vegetative topdress",
+    "suitableSoils": "Loam, Clay, Sandy, Chalky",
+    "description": "Uniform granules; balanced macronutrients.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "granular",
+      "granular-npk-grades",
+      "legumes",
+      "loam",
+      "potatoes",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 10,
+        "phosphorus": 10,
+        "potassium": 40
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Base/planting & vegetative topdress"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Granular NPK Grades",
+    "name": "+100 Customized Formula",
+    "form": "Granular",
+    "suitableCrops": "Cereals, legumes, potatoes, cotton, fruit trees, citrus",
+    "growthStage": "Base/planting & vegetative topdress",
+    "suitableSoils": "Loam, Clay, Sandy, Chalky",
+    "description": "Uniform granules; balanced macronutrients.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "granular",
+      "granular-npk-grades",
+      "legumes",
+      "loam",
+      "potatoes",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Base/planting & vegetative topdress"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "NPK 02-07-14",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 2,
+        "phosphorus": 7,
+        "potassium": 14
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "Urea Liquid",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "NPK 10-08-10",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 10,
+        "phosphorus": 8,
+        "potassium": 10
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "NPK 10-10-10",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 10,
+        "phosphorus": 10,
+        "potassium": 10
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "Seaweed Liquid",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "Phosphoric Acid",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "Salt Corrector",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "Liquid NPK’s",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "Calcium Thiosulphate (CaTS)",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "Ammonium Polyphosphate (APP)",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "Potassium Thiosulphate (KTS)",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Liquid Items",
+    "name": "+100 Customized Formula",
+    "form": "Liquid",
+    "suitableCrops": "Leafy greens, vegetables, fruits, hydroponics, ornamentals",
+    "growthStage": "Foliar/fertigation across stages; fast correction",
+    "suitableSoils": "Hydroponics, Sandy, Loam, Peat",
+    "description": "Concentrated liquids for rapid response.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "fruits",
+      "hydroponics",
+      "leafy-greens",
+      "liquid",
+      "liquid-items",
+      "loam",
+      "ornamentals",
+      "peat",
+      "sandy",
+      "vegetables"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Foliar/fertigation across stages; fast correction"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Suspension Items",
+    "name": "NPK 0-52-34",
+    "form": "Suspension",
+    "suitableCrops": "Cereals, cotton, rice, citrus, fruit trees",
+    "growthStage": "Vegetative to fruiting; fertigation/foliar",
+    "suitableSoils": "Loam, Clay, Chalky, Alkaline",
+    "description": "Stable suspensions delivering high analysis NPK.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "loam",
+      "rice",
+      "suspension",
+      "suspension-items"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 0,
+        "phosphorus": 52,
+        "potassium": 34
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to fruiting; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Suspension Items",
+    "name": "NPK 12-6-60",
+    "form": "Suspension",
+    "suitableCrops": "Cereals, cotton, rice, citrus, fruit trees",
+    "growthStage": "Vegetative to fruiting; fertigation/foliar",
+    "suitableSoils": "Loam, Clay, Chalky, Alkaline",
+    "description": "Stable suspensions delivering high analysis NPK.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "loam",
+      "rice",
+      "suspension",
+      "suspension-items"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 12,
+        "phosphorus": 6,
+        "potassium": 60
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to fruiting; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Suspension Items",
+    "name": "NPK 12-52-08",
+    "form": "Suspension",
+    "suitableCrops": "Cereals, cotton, rice, citrus, fruit trees",
+    "growthStage": "Vegetative to fruiting; fertigation/foliar",
+    "suitableSoils": "Loam, Clay, Chalky, Alkaline",
+    "description": "Stable suspensions delivering high analysis NPK.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "loam",
+      "rice",
+      "suspension",
+      "suspension-items"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 12,
+        "phosphorus": 52,
+        "potassium": 8
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to fruiting; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Suspension Items",
+    "name": "NPK 12-61-0",
+    "form": "Suspension",
+    "suitableCrops": "Cereals, cotton, rice, citrus, fruit trees",
+    "growthStage": "Vegetative to fruiting; fertigation/foliar",
+    "suitableSoils": "Loam, Clay, Chalky, Alkaline",
+    "description": "Stable suspensions delivering high analysis NPK.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "loam",
+      "rice",
+      "suspension",
+      "suspension-items"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 12,
+        "phosphorus": 61,
+        "potassium": 0
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to fruiting; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Suspension Items",
+    "name": "NPK 25-25-25",
+    "form": "Suspension",
+    "suitableCrops": "Cereals, cotton, rice, citrus, fruit trees",
+    "growthStage": "Vegetative to fruiting; fertigation/foliar",
+    "suitableSoils": "Loam, Clay, Chalky, Alkaline",
+    "description": "Stable suspensions delivering high analysis NPK.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "loam",
+      "rice",
+      "suspension",
+      "suspension-items"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 25,
+        "phosphorus": 25,
+        "potassium": 25
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to fruiting; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Suspension Items",
+    "name": "NPK 40-10-10",
+    "form": "Suspension",
+    "suitableCrops": "Cereals, cotton, rice, citrus, fruit trees",
+    "growthStage": "Vegetative to fruiting; fertigation/foliar",
+    "suitableSoils": "Loam, Clay, Chalky, Alkaline",
+    "description": "Stable suspensions delivering high analysis NPK.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "loam",
+      "rice",
+      "suspension",
+      "suspension-items"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 40,
+        "phosphorus": 10,
+        "potassium": 10
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to fruiting; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Suspension Items",
+    "name": "NPK 21-21-21",
+    "form": "Suspension",
+    "suitableCrops": "Cereals, cotton, rice, citrus, fruit trees",
+    "growthStage": "Vegetative to fruiting; fertigation/foliar",
+    "suitableSoils": "Loam, Clay, Chalky, Alkaline",
+    "description": "Stable suspensions delivering high analysis NPK.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "loam",
+      "rice",
+      "suspension",
+      "suspension-items"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 21,
+        "phosphorus": 21,
+        "potassium": 21
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to fruiting; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Suspension Items",
+    "name": "+10 Customized Formula",
+    "form": "Suspension",
+    "suitableCrops": "Cereals, cotton, rice, citrus, fruit trees",
+    "growthStage": "Vegetative to fruiting; fertigation/foliar",
+    "suitableSoils": "Loam, Clay, Chalky, Alkaline",
+    "description": "Stable suspensions delivering high analysis NPK.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "chalky",
+      "citrus",
+      "clay",
+      "cotton",
+      "fruit-trees",
+      "loam",
+      "rice",
+      "suspension",
+      "suspension-items"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Vegetative to fruiting; fertigation/foliar"
+    },
+    "pricing": {
+      "retail": 1200,
+      "wholesale": 1080.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "L"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphur Based",
+    "name": "RNZ SB+ (SB 90%)",
+    "form": "Sulphur/Amendment",
+    "suitableCrops": "Oilseeds, legumes, cereals; S & Zn correction",
+    "growthStage": "Pre-plant or early season; soil amendment",
+    "suitableSoils": "Alkaline, Loam, Sandy, Clay",
+    "description": "Elemental/compound S with optional Zn/B; pH & S correction.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "clay",
+      "legumes",
+      "loam",
+      "oilseeds",
+      "s-zn-correction",
+      "sandy",
+      "sulphur-amendment",
+      "sulphur-based"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Pre-plant or early season; soil amendment"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphur Based",
+    "name": "RNZ ES 99.5%",
+    "form": "Sulphur/Amendment",
+    "suitableCrops": "Oilseeds, legumes, cereals; S & Zn correction",
+    "growthStage": "Pre-plant or early season; soil amendment",
+    "suitableSoils": "Alkaline, Loam, Sandy, Clay",
+    "description": "Elemental/compound S with optional Zn/B; pH & S correction.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "clay",
+      "legumes",
+      "loam",
+      "oilseeds",
+      "s-zn-correction",
+      "sandy",
+      "sulphur-amendment",
+      "sulphur-based"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Pre-plant or early season; soil amendment"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphur Based",
+    "name": "RNZ SB+Zn 8%",
+    "form": "Sulphur/Amendment",
+    "suitableCrops": "Oilseeds, legumes, cereals; S & Zn correction",
+    "growthStage": "Pre-plant or early season; soil amendment",
+    "suitableSoils": "Alkaline, Loam, Sandy, Clay",
+    "description": "Elemental/compound S with optional Zn/B; pH & S correction.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "clay",
+      "legumes",
+      "loam",
+      "oilseeds",
+      "s-zn-correction",
+      "sandy",
+      "sulphur-amendment",
+      "sulphur-based"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Pre-plant or early season; soil amendment"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphur Based",
+    "name": "RNZ SB+Zn18%",
+    "form": "Sulphur/Amendment",
+    "suitableCrops": "Oilseeds, legumes, cereals; S & Zn correction",
+    "growthStage": "Pre-plant or early season; soil amendment",
+    "suitableSoils": "Alkaline, Loam, Sandy, Clay",
+    "description": "Elemental/compound S with optional Zn/B; pH & S correction.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "clay",
+      "legumes",
+      "loam",
+      "oilseeds",
+      "s-zn-correction",
+      "sandy",
+      "sulphur-amendment",
+      "sulphur-based"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Pre-plant or early season; soil amendment"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphur Based",
+    "name": "RNZ SB+B1.20%",
+    "form": "Sulphur/Amendment",
+    "suitableCrops": "Oilseeds, legumes, cereals; S & Zn correction",
+    "growthStage": "Pre-plant or early season; soil amendment",
+    "suitableSoils": "Alkaline, Loam, Sandy, Clay",
+    "description": "Elemental/compound S with optional Zn/B; pH & S correction.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "clay",
+      "legumes",
+      "loam",
+      "oilseeds",
+      "s-zn-correction",
+      "sandy",
+      "sulphur-amendment",
+      "sulphur-based"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Pre-plant or early season; soil amendment"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphur Based",
+    "name": "RNZ NS 10+ (10-0-0-7.5S)",
+    "form": "Sulphur/Amendment",
+    "suitableCrops": "Oilseeds, legumes, cereals; S & Zn correction",
+    "growthStage": "Pre-plant or early season; soil amendment",
+    "suitableSoils": "Alkaline, Loam, Sandy, Clay",
+    "description": "Elemental/compound S with optional Zn/B; pH & S correction.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "clay",
+      "legumes",
+      "loam",
+      "oilseeds",
+      "s-zn-correction",
+      "sandy",
+      "sulphur-amendment",
+      "sulphur-based"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 10,
+        "phosphorus": 0,
+        "potassium": 0
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Pre-plant or early season; soil amendment"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphur Based",
+    "name": "RNZ NS 20+ (20-0-0-50S)",
+    "form": "Sulphur/Amendment",
+    "suitableCrops": "Oilseeds, legumes, cereals; S & Zn correction",
+    "growthStage": "Pre-plant or early season; soil amendment",
+    "suitableSoils": "Alkaline, Loam, Sandy, Clay",
+    "description": "Elemental/compound S with optional Zn/B; pH & S correction.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "alkaline",
+      "cereals",
+      "clay",
+      "legumes",
+      "loam",
+      "oilseeds",
+      "s-zn-correction",
+      "sandy",
+      "sulphur-amendment",
+      "sulphur-based"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": 20,
+        "phosphorus": 0,
+        "potassium": 0
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "Pre-plant or early season; soil amendment"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "Prilled / Granular Urea",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "Mono Ammonium Phosphate",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "Mono Potassium Phosphate",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "Potassium Nitrate (Powder & Prilled)",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "Calcium Nitrate with Boron",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "Calcium Nitrate – Soluble",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "Potassium Magnesium Sulphate",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "Potassium Sulphate (Standard, Soluble, Granular)",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "Triple Superphosphate",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Straights Items",
+    "name": "TSP, DAP, MAP – Granular",
+    "form": "Straight",
+    "suitableCrops": "All crops (depending on nutrient need)",
+    "growthStage": "As per nutrient plan (base/topdress/foliar)",
+    "suitableSoils": "Varies; common: Loam, Clay, Sandy",
+    "description": "Single-nutrient or binary sources (N, P, K, Ca, etc.).",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "all-crops-depending-on-nutrient-need",
+      "clay",
+      "common-loam",
+      "sandy",
+      "straight",
+      "straights-items",
+      "varies"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Slow release",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Soil Application"
+      ],
+      "rate": {
+        "min": 100,
+        "max": 200,
+        "unit": "kg/ha"
+      },
+      "frequency": "At planting and topdress",
+      "timing": "As per nutrient plan (base/topdress/foliar)"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Fe EDDHA 6%",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Fe EDTA 12%",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Fe EDTA 15%",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Cu EDTA 15%",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Mn EDTA 13%",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Zn EDTA 15%",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Zn EDTA 15%",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "MgNa EDTA 6%",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Di-Sodium Octa Borate Tetrahydrate",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "DOT (Boron - 21%)",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Boric Acid",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Micro Elements",
+    "name": "Combi Mix",
+    "form": "Micronutrient",
+    "suitableCrops": "Fruit trees, citrus, grapes, greens; deficiency correction",
+    "growthStage": "As deficiency appears; foliar or fertigation",
+    "suitableSoils": "Alkaline/Acidic (per element), Sandy, Loam, Peat",
+    "description": "Chelated/available trace elements.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic-per-element",
+      "alkaline",
+      "citrus",
+      "deficiency-correction",
+      "fruit-trees",
+      "grapes",
+      "greens",
+      "loam",
+      "micro-elements",
+      "micronutrient",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "As deficiency appears; foliar or fertigation"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphates Products",
+    "name": "Zinc Sulphate – Hepta & Mono",
+    "form": "Micronutrient (Sulphate)",
+    "suitableCrops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+    "growthStage": "Deficiency correction; soil/foliar",
+    "suitableSoils": "Sandy, Acidic, Loam",
+    "description": "Sulphate salts of Zn, Mg, Mn, Fe, Cu.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "cereals",
+      "cu-correction",
+      "fe",
+      "loam",
+      "mg",
+      "micronutrient-sulphate",
+      "mn",
+      "oilseeds",
+      "sandy",
+      "sulphates-products",
+      "vegetables",
+      "zn"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Deficiency correction; soil/foliar"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphates Products",
+    "name": "Magnesium Sulphate – Hepta, Mono & Anhydrous",
+    "form": "Micronutrient (Sulphate)",
+    "suitableCrops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+    "growthStage": "Deficiency correction; soil/foliar",
+    "suitableSoils": "Sandy, Acidic, Loam",
+    "description": "Sulphate salts of Zn, Mg, Mn, Fe, Cu.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "cereals",
+      "cu-correction",
+      "fe",
+      "loam",
+      "mg",
+      "micronutrient-sulphate",
+      "mn",
+      "oilseeds",
+      "sandy",
+      "sulphates-products",
+      "vegetables",
+      "zn"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Deficiency correction; soil/foliar"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphates Products",
+    "name": "Manganese Sulphate",
+    "form": "Micronutrient (Sulphate)",
+    "suitableCrops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+    "growthStage": "Deficiency correction; soil/foliar",
+    "suitableSoils": "Sandy, Acidic, Loam",
+    "description": "Sulphate salts of Zn, Mg, Mn, Fe, Cu.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "cereals",
+      "cu-correction",
+      "fe",
+      "loam",
+      "mg",
+      "micronutrient-sulphate",
+      "mn",
+      "oilseeds",
+      "sandy",
+      "sulphates-products",
+      "vegetables",
+      "zn"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Deficiency correction; soil/foliar"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphates Products",
+    "name": "Ferrous Sulphate – Hepta & Mono",
+    "form": "Micronutrient (Sulphate)",
+    "suitableCrops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+    "growthStage": "Deficiency correction; soil/foliar",
+    "suitableSoils": "Sandy, Acidic, Loam",
+    "description": "Sulphate salts of Zn, Mg, Mn, Fe, Cu.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "cereals",
+      "cu-correction",
+      "fe",
+      "loam",
+      "mg",
+      "micronutrient-sulphate",
+      "mn",
+      "oilseeds",
+      "sandy",
+      "sulphates-products",
+      "vegetables",
+      "zn"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Deficiency correction; soil/foliar"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Sulphates Products",
+    "name": "Copper Sulphate – Pentahydrate",
+    "form": "Micronutrient (Sulphate)",
+    "suitableCrops": "Cereals, vegetables, oilseeds; Mg/Zn/Mn/Fe/Cu correction",
+    "growthStage": "Deficiency correction; soil/foliar",
+    "suitableSoils": "Sandy, Acidic, Loam",
+    "description": "Sulphate salts of Zn, Mg, Mn, Fe, Cu.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "cereals",
+      "cu-correction",
+      "fe",
+      "loam",
+      "mg",
+      "micronutrient-sulphate",
+      "mn",
+      "oilseeds",
+      "sandy",
+      "sulphates-products",
+      "vegetables",
+      "zn"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 5.5,
+        "max": 6.5
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Deficiency correction; soil/foliar"
+    },
+    "pricing": {
+      "retail": 1500,
+      "wholesale": 1350.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Bio/Organic Items",
+    "name": "Granular Gypsum",
+    "form": "Organic/Bio",
+    "suitableCrops": "All crops; organic & soil health programs",
+    "growthStage": "Any stage; soil conditioning",
+    "suitableSoils": "Loam, Sandy, Clay, Peat, Acidic",
+    "description": "Biostimulants & soil improvers.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "all-crops",
+      "bio-organic-items",
+      "clay",
+      "loam",
+      "organic-bio",
+      "organic-soil-health-programs",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Any stage; soil conditioning"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Bio/Organic Items",
+    "name": "Guano Phosphate",
+    "form": "Organic/Bio",
+    "suitableCrops": "All crops; organic & soil health programs",
+    "growthStage": "Any stage; soil conditioning",
+    "suitableSoils": "Loam, Sandy, Clay, Peat, Acidic",
+    "description": "Biostimulants & soil improvers.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "all-crops",
+      "bio-organic-items",
+      "clay",
+      "loam",
+      "organic-bio",
+      "organic-soil-health-programs",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Any stage; soil conditioning"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Bio/Organic Items",
+    "name": "Humic / Fulvic Acid",
+    "form": "Organic/Bio",
+    "suitableCrops": "All crops; organic & soil health programs",
+    "growthStage": "Any stage; soil conditioning",
+    "suitableSoils": "Loam, Sandy, Clay, Peat, Acidic",
+    "description": "Biostimulants & soil improvers.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "all-crops",
+      "bio-organic-items",
+      "clay",
+      "loam",
+      "organic-bio",
+      "organic-soil-health-programs",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Any stage; soil conditioning"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Bio/Organic Items",
+    "name": "Seaweed Range",
+    "form": "Organic/Bio",
+    "suitableCrops": "All crops; organic & soil health programs",
+    "growthStage": "Any stage; soil conditioning",
+    "suitableSoils": "Loam, Sandy, Clay, Peat, Acidic",
+    "description": "Biostimulants & soil improvers.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "all-crops",
+      "bio-organic-items",
+      "clay",
+      "loam",
+      "organic-bio",
+      "organic-soil-health-programs",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Any stage; soil conditioning"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Bio/Organic Items",
+    "name": "Soil Conditioners",
+    "form": "Organic/Bio",
+    "suitableCrops": "All crops; organic & soil health programs",
+    "growthStage": "Any stage; soil conditioning",
+    "suitableSoils": "Loam, Sandy, Clay, Peat, Acidic",
+    "description": "Biostimulants & soil improvers.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "all-crops",
+      "bio-organic-items",
+      "clay",
+      "loam",
+      "organic-bio",
+      "organic-soil-health-programs",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Any stage; soil conditioning"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  },
+  {
+    "category": "Bio/Organic Items",
+    "name": "Amino Acids",
+    "form": "Organic/Bio",
+    "suitableCrops": "All crops; organic & soil health programs",
+    "growthStage": "Any stage; soil conditioning",
+    "suitableSoils": "Loam, Sandy, Clay, Peat, Acidic",
+    "description": "Biostimulants & soil improvers.",
+    "isActive": true,
+    "isFeatured": false,
+    "tags": [
+      "acidic",
+      "all-crops",
+      "bio-organic-items",
+      "clay",
+      "loam",
+      "organic-bio",
+      "organic-soil-health-programs",
+      "peat",
+      "sandy"
+    ],
+    "specifications": {
+      "npk": {
+        "nitrogen": null,
+        "phosphorus": null,
+        "potassium": null
+      },
+      "solubility": "Fully soluble",
+      "ph": {
+        "min": 6.0,
+        "max": 7.0
+      }
+    },
+    "application": {
+      "method": [
+        "Foliar",
+        "Fertigation"
+      ],
+      "rate": {
+        "min": 2,
+        "max": 5,
+        "unit": "kg/ha"
+      },
+      "frequency": "Every 7-15 days",
+      "timing": "Any stage; soil conditioning"
+    },
+    "pricing": {
+      "retail": 650,
+      "wholesale": 585.0,
+      "currency": "INR"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 1000,
+      "unit": "kg"
+    },
+    "images": [],
+    "brochures": [],
+    "certifications": [],
+    "safety": {
+      "toxicity": "Standard agricultural product",
+      "handling": "Follow standard safety procedures",
+      "storage": "Store in cool, dry place"
+    }
+  }
+]

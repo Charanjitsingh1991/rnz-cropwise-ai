@@ -1,0 +1,149 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+.genkit/*
+.env*
+
+# Sensitive credential files (NEVER COMMIT)
+*firebase-adminsdk*.json
+client_secret_*.json
+local details.txt
+vercel details.txt
+google-services.json
+*.pem
+*.key
+*.p12
+
+# firebase
+firebase-debug.log
+firestore-debug.log
+.vercel
+
+# ============================================
+# FLUTTER SPECIFIC
+# ============================================
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+flutter_*.png
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/rnz_cropwise_flutter/android/app/debug
+/rnz_cropwise_flutter/android/app/profile
+/rnz_cropwise_flutter/android/app/release
+/rnz_cropwise_flutter/android/.gradle
+/rnz_cropwise_flutter/android/captures/
+/rnz_cropwise_flutter/android/gradlew
+/rnz_cropwise_flutter/android/gradlew.bat
+/rnz_cropwise_flutter/android/local.properties
+/rnz_cropwise_flutter/android/.gradle/
+/rnz_cropwise_flutter/android/gradle/
+
+# iOS related
+/rnz_cropwise_flutter/ios/Flutter/Flutter.framework
+/rnz_cropwise_flutter/ios/Flutter/Flutter.podspec
+/rnz_cropwise_flutter/ios/Pods/
+/rnz_cropwise_flutter/ios/.symlinks/
+/rnz_cropwise_flutter/ios/Flutter/App.framework
+/rnz_cropwise_flutter/ios/Flutter/Flutter.framework
+/rnz_cropwise_flutter/ios/Flutter/Generated.xcconfig
+/rnz_cropwise_flutter/ios/Flutter/app.flx
+/rnz_cropwise_flutter/ios/Flutter/app.zip
+/rnz_cropwise_flutter/ios/Flutter/flutter_assets/
+/rnz_cropwise_flutter/ios/ServiceDefinitions.json
+/rnz_cropwise_flutter/ios/Runner/GeneratedPluginRegistrant.*
+
+# Web related
+/rnz_cropwise_flutter/web/flutter_service_worker.js
+
+# Linux related
+/rnz_cropwise_flutter/linux/flutter/generated_plugin_registrant.cc
+/rnz_cropwise_flutter/linux/flutter/generated_plugin_registrant.h
+/rnz_cropwise_flutter/linux/flutter/generated_plugins.cmake
+
+# Windows related
+/rnz_cropwise_flutter/windows/flutter/generated_plugin_registrant.cc
+/rnz_cropwise_flutter/windows/flutter/generated_plugin_registrant.h
+/rnz_cropwise_flutter/windows/flutter/generated_plugins.cmake
+
+# macOS related
+/rnz_cropwise_flutter/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Coverage
+coverage/
+
+# Exceptions to above rules.
+!**/ios/**/default.mode1v3
+!**/ios/**/default.mode2v3
+!**/ios/**/default.pbxuser
+!**/ios/**/default.perspectivev3
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+!/dev/ci/**/Gemfile.lock
